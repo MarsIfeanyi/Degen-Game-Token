@@ -18,22 +18,28 @@ The contract has functionalities that:
 - [Degen Gaming Studio Token](#degen-gaming-studio-token)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
-    - [Token Information](#token-information)
+  - [Token Information](#token-information)
+    - [Deployed and Verified Contract Address](#deployed-and-verified-contract-address)
     - [Functions](#functions)
   - [Testing the smart contract with hardhat script](#testing-the-smart-contract-with-hardhat-script)
   - [Deployments](#deployments)
     - [Deploying Contract](#deploying-contract)
     - [Verifying Contract](#verifying-contract)
-    - [Deployed and Verified Contract Address](#deployed-and-verified-contract-address)
   - [Interactions and Testing on the Fuji testnet](#interactions-and-testing-on-the-fuji-testnet)
-    - [Demo Video](#demo-video)
+  - [Demo Video](#demo-video)
   - [Authors](#authors)
   - [License](#license)
 
-### Token Information
+## Token Information
 
 - **Name:** Degen
 - **Symbol:** DGN
+
+### Deployed and Verified Contract Address
+
+0x5d7005b3A59c991454aA4889c6E6780283e17eC2
+
+https://testnet.snowtrace.io/address/0x5d7005b3A59c991454aA4889c6E6780283e17eC2#code
 
 ### Functions
 
@@ -137,19 +143,13 @@ The contract is deployed on the Avalanche Fuji Testnet(C-chain), [DegenToken](ht
 
 ![03](./images/03.png)
 
-### Deployed and Verified Contract Address
-
-0x5d7005b3A59c991454aA4889c6E6780283e17eC2
-
-https://testnet.snowtrace.io/address/0x5d7005b3A59c991454aA4889c6E6780283e17eC2#code
-
 ## Interactions and Testing on the Fuji testnet
 
 ![04](./images/04.png)
 
 ![05](./images/05.png)
 
-### Demo Video
+## Demo Video
 
 https://www.loom.com/share/47d5f56b602446998c334d4dc07373b6?sid=151df92b-64bc-46a6-86f4-64e3c39850b0
 
